@@ -7,6 +7,8 @@ Standard library only; reads no input and touches no network.
 import os
 import sys
 
+# Why this word: the whole internet is feral — wild, untamed, running loose
+# beyond anyone's control. It makes a reader laugh first, then nod.
 WORD = "feral"
 
 
